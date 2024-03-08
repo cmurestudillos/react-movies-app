@@ -1,0 +1,7 @@
+# React
+/node_modules
+/build
+/.cache
+/.env
+.DS_Store
+package-lock.json
